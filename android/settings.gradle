@@ -1,0 +1,3 @@
+rootProject.name = 'React_Drawer_Navigation'
+
+include ':app'
